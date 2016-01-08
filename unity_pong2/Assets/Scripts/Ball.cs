@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Ball : MonoBehaviour {
-
+public class Ball : MonoBehaviour
+{
     public float ball_velocity = 3000;
 
     Rigidbody rb;

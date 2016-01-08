@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Score : MonoBehaviour {
-
+public class Score : MonoBehaviour
+{
     public TextMesh current_score;
     public GameObject ball_prefab;
     public Transform paddle_object;

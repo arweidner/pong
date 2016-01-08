@@ -3,7 +3,6 @@ using System.Collections;
 
 public class Paddle : MonoBehaviour
 {
-
     public float paddle_speed = 1;
     public Vector3 player_position;
 
